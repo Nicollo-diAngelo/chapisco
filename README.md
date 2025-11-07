@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-    <header><img src="Imagens/IMG-20251023-WA0017.jpg" alt="avatar de um menino usando fones" width="200">
+    <header><img src="https://share.google/images/3v4iKyv3v9rFHhq2I" alt= width="200">
     <p> Eu sou o Kauane
 <h1> Estudo no CECM
 <p>Tenho um namorado, um gatinho chamado Feioso e gosto de moda e tubarões. </p> 

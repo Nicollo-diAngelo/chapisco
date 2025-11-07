@@ -10,7 +10,7 @@
 <body>
     <header>
     <header><img src="https://share.google/images/3v4iKyv3v9rFHhq2I" alt= width="200">
-    <p> Eu sou o Kauane
+    <p> Eu sou a Kauane
 <h1> Estudo no CECM
 <p>Tenho um namorado, um gatinho chamado Feioso e gosto de moda e tubarões. </p> 
 <span>HTML</span>>
